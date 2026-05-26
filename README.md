@@ -2,3 +2,4 @@
 Deletes random windows system32 files
 
 # RUN WITH CAUTION
+# I HAVE NO RESPONSIBILITY OF WHAT YOU DO WITH THIS PROGRAM
